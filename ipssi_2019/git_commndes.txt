@@ -1,0 +1,26 @@
+RAPPEL : 
+
+echo "a" > fichier = créer un fichier nommé 'fichier' avec 'a' écris dedans
+rm - d = remove folder
+rm -r = remove fichier plein
+
+GIT
+
+git branch = afiche les branches
+git checkout (branch) = changer de branche
+git status = obtenir le statut des fichiers à envoyer et créés.
+git add (fichier) = ajouter un fichier à commiter
+git commit -m 'ajout fichier' = ajouter le fichier à la branche
+git push --set-upstream origin branch1 = ajouter la branche 1 à github
+https://github.com/ETFIRE/test/pull/new/branch1 = new pull request sur github interface
+git branch -d (brnach) = delete la branche
+git checkout -b (branch) = créé la branche et va dessus
+git log = listes des dernières actions
+git stash = mettre de côté un travail et le récupèrer (local)
+
+CREER LE GIT SUR GITHUB
+git clone (SSH)
+cd dans le git
+cat README
+git status
+git push
